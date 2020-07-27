@@ -28,6 +28,7 @@ Here are a few things I've picked up along my learning journey.
 * :cloud: GCP
 * ♽ Kubernetes | Docker | Kafka
 * 🖇️ Microservices | Springboot
+* :wrench: Terraform | Jenkins
 
 ## 📫 Lets connect 
 - [LinkedIn](https://www.linkedin.com/in/gaurovojha)
