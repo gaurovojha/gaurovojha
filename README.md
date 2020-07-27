@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi, I am Gaurov Ojha 👨‍💻
 
 
-#### 🔭 I’m a Java/Python programmer and a problem solving/Machine-learning enthusiast, working as a Senior Data Engineer in Publicis.Sapient. I have a 9 years of enterprise level software development experience in domains like Banking/financial service and US healthcare. I am passionate about technologies and love to learn new things.
+#### 🔭 I’m a Java/Python programmer and a problem solving/Machine-learning enthusiast, working as a Senior Data Engineer in Publicis.Sapient. I have a 9 years of enterprise level software development experience in domains like Banking/financial services and US healthcare. I am passionate about technologies and love to learn new things.
 
 
 ## ⚡ Tech Stack
